@@ -19,8 +19,6 @@ The inital work was completed by following along the with the Treehouse tutorial
 
 :black_square_button: Update Wiki
 
-:black_square_button: Expand Yatzy Funcitionality ([See Kenneth Love's Example](https://github.com/kennethlove/yatzy))
-
 ## Notes
 - **Language:** Python / Flask
 - **Author:** Rheanne McIntosh
